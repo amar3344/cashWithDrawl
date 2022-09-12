@@ -1,0 +1,20 @@
+.order-list-container {
+  list-style-type: none;
+  width: 48%;
+  margin-bottom: 16px;
+}
+.button {
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  width: 150px;
+  height: 50px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: #ffffff;
+  padding: 5px;
+  color: #ffffff;
+  margin-right: 10px;
+  cursor: pointer;
+  outline: none;
+}
